@@ -6,8 +6,11 @@
 A simple Webpage created by using HTML for the submission in AccioJob.
 
 
-## Authors
+## Screenshoot
+![Screenshot (14)](https://github.com/SangitaSen1998/Frontend1-Contest-1-August/assets/122546428/49829009-75fe-4755-8507-13e8e05a6237)
 
+
+## Authors
 - [@Sangita Sen](https://github.com/SangitaSen1998)
 
 
